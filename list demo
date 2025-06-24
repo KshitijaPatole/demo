@@ -1,0 +1,33 @@
+
+<html>
+<head>
+    <title>list demo</title>
+</head>
+<body>
+    <h2>ordered list tag</h2>
+    <ol style="margin: 10%;"type='a'>
+        <ol style="margin: 10%;"type='A'>
+            <ol style="margin: 10%;"type='i'>
+                <ol style="margin: 10%;"type='I'>
+                    <ol style="margin: 10%;"type='1'>
+                    
+                        <li>mango</li>
+                        <li>chickoo</li>
+                        <li>apple</li>
+                        <li>watermelon</li>
+                    </ol>
+                    <h2>unorederd list</h2>
+                    <ul style="margin:10;"type='circle'>
+                        <ul style="margin:10;"type='disc'>
+                            <ul style="margin:10;"type='square'>
+                                <ul style="margin:10;"type='square'>
+                                    <ul style="margin:10;"type='none'>
+                                
+                        <li>mango</li>
+                        <li>chickoo</li>
+                        <li>apple</li>
+                        <li>watermelon</li>
+
+
+</body>
+</html>
